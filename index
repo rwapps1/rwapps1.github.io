@@ -1,0 +1,30 @@
+<html><head>
+<link rel="stylesheet" href="style.css">
+    
+ <title>Root Folder Only</title>
+</head>
+
+<body>
+
+    <a href="index.html">Home</a>
+
+    <header>
+        <h1>Root Folder Test</h1>
+    </header>   
+
+<main>
+        <section>
+            <p>Purely to test my root folder</p>
+        </section>
+      
+           
+
+
+
+
+      
+    <footer>
+        <p>Website built and maintained throuhgout 2026</p>      
+    </footer>
+  
+</main></body></html>
