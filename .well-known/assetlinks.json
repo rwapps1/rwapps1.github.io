@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.rwapps1.twa",
+        "sha256_cert_fingerprints": ["57:77:7A:80:48:03:EB:19:5F:1E:FE:C1:AC:A5:BF:5E:87:BA:7D:A9:87:1C:07:C9:62:6E:23:26:B5:9A:E0:F9"]
+      }
+    }]
