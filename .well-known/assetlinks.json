@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "uk.palabraword.twa",
-        "sha256_cert_fingerprints": ["CA:A4:38:16:89:76:23:8F:1E:70:5D:47:8E:6E:A5:C2:2E:8C:36:E6:6F:3B:E5:31:06:B3:CF:A3:F5:F7:0A:22"]
+        "sha256_cert_fingerprints": ["DD:55:9C:2A:47:23:7C:DD:6C:E4:2A:79:4A:E4:57:38:0B:91:68:E4:90:F1:DE:27:76:1B:46:DB:FD:AA:23:42"]
       }
     }]
